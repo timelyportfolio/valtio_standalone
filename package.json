@@ -1,0 +1,15 @@
+{
+  "name": "valtio_standalone",
+  "version": "1.0.0",
+  "description": "valtio as a browserify standalone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "valtio": "^1.1.0"
+  }
+}
