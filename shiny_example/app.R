@@ -1,3 +1,5 @@
+library(shiny)
+
 # experiment with Shiny inputValues and valtio
 #   reference:
 #     https://github.com/pmndrs/valtio
@@ -9,6 +11,7 @@ ui <- tagList(
     tags$h3("Increment with JavaScript"),
     tags$span("Shiny: "),
     textOutput("reporterR", inline = TRUE),
+    
     tags$span("JavaScript: "),
     tags$span(
       id = "reporterJS"

@@ -27,14 +27,14 @@ process@^0.11.10:
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
   integrity sha1-czIwDoQBYb2j5podHZGn1LwW8YI=
 
-proxy-compare@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/proxy-compare/-/proxy-compare-2.0.1.tgz#3ae19cf47f64e89bd60fe4f57afd124f733ef64f"
-  integrity sha512-uXj3TtWdR1S2SNwJKbgJB+1FJm9HM3sFzlVc8W6PZvU6ogt9mlkb1WwZQpuKFLkDS6LKY4+FBE18K6ZArphnHA==
+proxy-compare@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/proxy-compare/-/proxy-compare-2.0.2.tgz#343e624d0ec399dfbe575f1d365d4fa042c9fc69"
+  integrity sha512-3qUXJBariEj3eO90M3Rgqq3+/P5Efl0t/dl9g/1uVzIQmO3M+ql4hvNH3mYdu8H+1zcKv07YvL55tsY74jmH1A==
 
-valtio@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/valtio/-/valtio-1.1.0.tgz#6069ba7b5ae7e05a579e81ca678b4142dbd7e478"
-  integrity sha512-CDRbi53VxMSB0oRJ4u/ueqrmHKkPxzRMif4Ew0SSqiyaDVvPnMULMPq+jmN3XXdLCmbQgh20Kt1G/YA48i5Kkg==
+valtio@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/valtio/-/valtio-1.2.4.tgz#5e42d825fa8d76501ed434d5e1d145c23d83aae1"
+  integrity sha512-FipYZHGJXsSKObKNGOHwqqiA6T84T7LHhrPfM7ptt3e2uFao4djD5/u4JEb/z2O14fv1CFxIO05UWCuk3VT/qg==
   dependencies:
-    proxy-compare "2.0.1"
+    proxy-compare "2.0.2"

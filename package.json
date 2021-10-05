@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "global": "^4.4.0",
-    "valtio": "^1.1.0"
+    "valtio": "^1.2.4"
   }
 }
