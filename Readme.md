@@ -5,5 +5,5 @@ Please see [`valtio`](https://github.com/pmndrs/valtio).   Thanks so much to all
 ### build
 
 ```
-browserify index.js --standalone valtio > valtio.js
+browserify index.js --standalone valtio | terser -c > valtio.js
 ```

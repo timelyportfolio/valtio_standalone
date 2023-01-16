@@ -11,5 +11,9 @@
   "dependencies": {
     "global": "^4.4.0",
     "valtio": "^1.2.4"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "terser": "^5.16.1"
   }
 }

@@ -1,4 +1,5 @@
 library(shiny)
+# run with RStudio Run App button
 
 # experiment with Shiny inputValues and valtio
 #   reference:
